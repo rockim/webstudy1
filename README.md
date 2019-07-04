@@ -12,6 +12,6 @@ Link: [카카오 1번 비밀지도 문제][kakao link]: http://tech.kakao.com/20
 일단 여기에 자신이 branch로 했다는것을 commit 하기위해  README.md 파일을 밑에와 같이 추가적으로 넣어주시면 됩니다.
 1. rockim
 2. nesllewr
-3. MunYeong0723
+3. MunYeong
 
 *주의 하나의 파일로 같이 푸는겁니다. together.py를 각자 git branch origin/닉네임명 으로 해서 이번주 내로 풀어 봅시다!
