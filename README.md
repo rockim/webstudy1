@@ -4,7 +4,7 @@ To use git well
 1. 음 뭐 하 지 ? ㅋ 
 2. 알고리즘 문제 한번 내보겟습니다.
 
-3. 입력 값 1.txt 파일을 읽어서 원하는 출력을 도출해는 문제입니다.
+3. 입력 값 1.txt 파일을 읽어서 원하는 출력을 도출하는 문제입니다.
 
 Link: [카카오 1번 비밀지도 문제][kakao link]: http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/ "GO KAKAO"
 
