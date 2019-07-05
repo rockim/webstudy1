@@ -13,6 +13,8 @@ Link: [카카오 1번 비밀지도 문제][kakao link]: http://tech.kakao.com/20
 1. rockim
 2. nesllewr
 3. MunYeong0723
-4. suzy100
+4. hyunah
+5. suzy100
+
 
 *주의 하나의 파일로 같이 푸는겁니다. together.py를 각자 git branch origin/닉네임명 으로 해서 이번주 내로 풀어 봅시다!
