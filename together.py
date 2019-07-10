@@ -10,7 +10,9 @@ answer = []
 def opentxt():
     global number, array
     count = 0
+
     filepath = sys.path[0] + "\\2.txt"
+
     lines=open(filepath,'r').readlines()
     for line in lines:
         if len(line)==2:
