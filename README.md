@@ -16,4 +16,6 @@ Link: [카카오 1번 비밀지도 문제]: <tech.kakao.com/2017/09/27/kakao-bli
 4. suzy100
 5. HYUNAHSHIM
 
+test
+
 *주의 하나의 파일로 같이 푸는겁니다. together.py를 각자 git branch origin/닉네임명 으로 해서 이번주 내로 풀어 봅시다!
